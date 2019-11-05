@@ -1,0 +1,6 @@
+D:\Source Visual Studio\MyDigitalShop\Entities\bin\Debug\Entities.dll
+D:\Source Visual Studio\MyDigitalShop\Entities\bin\Debug\Entities.pdb
+D:\Source Visual Studio\MyDigitalShop\Entities\obj\Debug\Entities.csprojAssemblyReference.cache
+D:\Source Visual Studio\MyDigitalShop\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+D:\Source Visual Studio\MyDigitalShop\Entities\obj\Debug\Entities.dll
+D:\Source Visual Studio\MyDigitalShop\Entities\obj\Debug\Entities.pdb

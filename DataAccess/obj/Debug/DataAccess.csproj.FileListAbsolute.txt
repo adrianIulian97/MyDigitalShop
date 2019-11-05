@@ -1,0 +1,11 @@
+D:\Source Visual Studio\MyDigitalShop\DataAccess\bin\Debug\DataAccess.dll
+D:\Source Visual Studio\MyDigitalShop\DataAccess\bin\Debug\DataAccess.pdb
+D:\Source Visual Studio\MyDigitalShop\DataAccess\obj\Debug\DataAccess.csprojAssemblyReference.cache
+D:\Source Visual Studio\MyDigitalShop\DataAccess\obj\Debug\DataAccess.Properties.Resources.resources
+D:\Source Visual Studio\MyDigitalShop\DataAccess\obj\Debug\DataAccess.csproj.GenerateResource.cache
+D:\Source Visual Studio\MyDigitalShop\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+D:\Source Visual Studio\MyDigitalShop\DataAccess\obj\Debug\DataAccess.dll
+D:\Source Visual Studio\MyDigitalShop\DataAccess\obj\Debug\DataAccess.pdb
+D:\Source Visual Studio\MyDigitalShop\DataAccess\bin\Debug\Entities.dll
+D:\Source Visual Studio\MyDigitalShop\DataAccess\bin\Debug\Entities.pdb
+D:\Source Visual Studio\MyDigitalShop\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
